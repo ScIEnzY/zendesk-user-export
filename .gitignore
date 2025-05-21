@@ -1,0 +1,7 @@
+*.json
+*.env
+*.csv
+/vendor/
+debug_json/
+*.xml
+composer.lock
